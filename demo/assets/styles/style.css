@@ -1,0 +1,164 @@
+body {
+    background: #242424;
+}
+
+main > .row {
+    min-height: 100vh;
+}
+
+main .jumbotron {
+    background: transparent;
+    color: white;
+}
+
+.reset-button {
+    border: none;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    overflow: visible;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    line-height: normal;
+    -webkit-font-smoothing: inherit;
+    -moz-osx-font-smoothing: inherit;
+    -webkit-appearance: none;
+}
+.reset-button::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+.scoreboard {
+
+}
+
+.scoreboard .gamescore {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    padding: 0.25rem;
+    font-size: 2rem;
+    color: white;
+    width: 100px;
+}
+
+.scoreboard .gamescore.redteam {
+    background: #FF1F4C;
+    left: 0;
+    border-radius: 0 0 5px 0;
+    text-align: left;
+}
+
+.scoreboard .gamescore.blueteam {
+    background: #0275FC;
+    right: 0;
+    border-radius: 0 0 0 5px;
+    text-align: right;
+}
+
+.gameboard {
+    background: #DBDBDB;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+
+.cardcolumn {
+    flex-grow: 1;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.cardcolumn > h2 {
+    margin: 1rem 0 2rem 0;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.gamecard {
+    color: white;
+    font-size: 3rem;
+    background: #5D7987;
+    padding: 3rem 0;
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.gamecard.played {
+    pointer-events: none;
+    color: rgba(255, 255, 255, 0.25);
+}
+
+.gamecard.played:not(.redteam):not(.blueteam) {
+    opacity: 0.5;
+}
+
+.gamecard.played.redteam {
+    background: #FF1F4C;
+}
+
+.gamecard.played.blueteam {
+    background: #0275FC;
+}
+
+.questioncard {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.75);
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    z-index: 999;
+}
+
+.questioncard.redteam .questionanswer button {
+    background: #FF1F4C;
+}
+
+.questioncard.blueteam .questionanswer button {
+    background: #0275FC;
+}
+
+.gamequestion {
+    background: #5D7987;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.gamequestion > hr {
+    flex-grow: 1;
+}
+
+.questionanswers {
+    display: flex;
+    flex-wrap: wrap;
+}
+.questionanswer {
+    color: white;
+    font-size: 2rem;
+    padding: 10px;
+    display: flex;
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    width: 50%;
+}
+
+.questionanswer button {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    padding: 3rem 2rem;
+}

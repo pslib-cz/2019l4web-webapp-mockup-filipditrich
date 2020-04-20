@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<link rel="stylesheet" href="assets/styles/style.css">
+	<title>Trivia</title>
+</head>
+<body>
+
+<header class="scoreboard">
+	<div class="gamescore redteam">
+		<span>0500</span>
+	</div>
+	
+	<div class="gamescore blueteam">
+		<span>0700</span>
+	</div>
+</header>
+
+<main class="container">
+	<div class="row">
+		<div class="col-sm-12 col-lg-10 m-auto">
+			<div class="gameboard d-flex flex-sm-wrap flex-lg-nowrap justify-content-between">
+				<div class="cardcolumn">
+					<h2>Group 1</h2>
+					<button onclick="location.href='question.html'" class="gamecard"><span>100</span></button>
+					<button onclick="location.href='question.html'" class="gamecard"><span>200</span></button>
+					<button onclick="location.href='question.html'" class="gamecard played redteam"><span>500</span></button>
+					<button onclick="location.href='question.html'" class="gamecard"><span>1000</span></button>
+				</div>
+				
+				<div class="cardcolumn">
+					<h2>Group 2</h2>
+					<button onclick="location.href='question.html'" class="gamecard"><span>100</span></button>
+					<button onclick="location.href='question.html'" class="gamecard played"><span>200</span></button>
+					<button onclick="location.href='question.html'" class="gamecard"><span>500</span></button>
+					<button onclick="location.href='question.html'" class="gamecard"><span>1000</span></button>
+				</div>
+				
+				<div class="cardcolumn flex-grow-1">
+					<h2>Group 3</h2>
+					<button onclick="location.href='question.html'" class="gamecard"><span>100</span></button>
+					<button onclick="location.href='question.html'" class="gamecard"><span>200</span></button>
+					<button onclick="location.href='question.html'" class="gamecard played blueteam"><span>500</span></button>
+					<button onclick="location.href='question.html'" class="gamecard"><span>1000</span></button>
+				</div>
+				
+				<div class="cardcolumn">
+					<h2>Group 4</h2>
+					<button onclick="location.href='question.html'" class="gamecard"><span>100</span></button>
+					<button onclick="location.href='question.html'" class="gamecard played blueteam"><span>200</span></button>
+					<button onclick="location.href='question.html'" class="gamecard"><span>500</span></button>
+					<button onclick="location.href='question.html'" class="gamecard played"><span>1000</span></button>
+				</div>
+			</div>
+		</div>
+	</div>
+</main>
+
+</body>
+</html>
