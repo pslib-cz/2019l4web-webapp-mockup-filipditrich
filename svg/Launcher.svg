@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Launcher">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Launcher" clip-path="url(#clip-Launcher)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Bg" width="1920" height="1080" fill="#212121"/>
+    <g id="Button">
+      <path id="Path_2" data-name="Path 2" d="M48,0H393a48,48,0,0,1,0,96H48A48,48,0,0,1,48,0Z" transform="translate(740 675)" fill="#263238"/>
+      <text id="START_GAME" data-name="START GAME" transform="translate(960 735)" fill="#fafafa" font-size="32" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="-103.12" y="0">START GAME</tspan></text>
+    </g>
+  </g>
+</svg>

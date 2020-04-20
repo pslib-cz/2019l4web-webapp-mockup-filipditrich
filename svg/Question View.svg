@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Question_View">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Question_View" data-name="Question View" clip-path="url(#clip-Question_View)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <path id="Background" d="M0,0H1920V1080H0Z" fill="#212121"/>
+    <g id="Board" transform="translate(220 150)">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="1480" height="900" rx="10" fill="#d6d6d6"/>
+      <text id="GROUP_1" data-name="GROUP 1" transform="translate(185 57)" font-size="21" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-44.507" y="0">GROUP 1</tspan></text>
+      <text id="GROUP_2" data-name="GROUP 2" transform="translate(555 57)" font-size="21" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-45.799" y="0">GROUP 2</tspan></text>
+      <text id="GROUP_3" data-name="GROUP 3" transform="translate(925 57)" font-size="21" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-46.081" y="0">GROUP 3</tspan></text>
+      <text id="GROUP_4" data-name="GROUP 4" transform="translate(1295 57)" font-size="21" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-46.266" y="0">GROUP 4</tspan></text>
+      <g id="COL" transform="translate(-220 -150)">
+        <rect id="Rectangle_13" data-name="Rectangle 13" width="360" height="190" rx="5" transform="translate(225 255)" fill="#546e7a"/>
+        <rect id="Rectangle_14" data-name="Rectangle 14" width="360" height="190" rx="5" transform="translate(225 455)" fill="#546e7a"/>
+        <rect id="Rectangle_17" data-name="Rectangle 17" width="360" height="190" rx="5" transform="translate(225 655)" fill="#546e7a"/>
+        <rect id="Rectangle_19" data-name="Rectangle 19" width="360" height="190" rx="5" transform="translate(225 855)" fill="#546e7a"/>
+        <text id="_100" data-name="100" transform="translate(405 370)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-47.036" y="0">100</tspan></text>
+        <text id="_200" data-name="200" transform="translate(405 570)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-50.172" y="0">200</tspan></text>
+        <text id="_500" data-name="500" transform="translate(405 770)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-50.807" y="0">500</tspan></text>
+        <text id="_1000" data-name="1000" transform="translate(405 970)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-64.238" y="0">1000</tspan></text>
+      </g>
+      <g id="COL-2" data-name="COL" transform="translate(150 -150)">
+        <rect id="Rectangle_13-2" data-name="Rectangle 13" width="360" height="190" rx="5" transform="translate(225 255)" fill="#546e7a"/>
+        <rect id="Rectangle_14-2" data-name="Rectangle 14" width="360" height="190" rx="5" transform="translate(225 455)" fill="#546e7a"/>
+        <rect id="Rectangle_17-2" data-name="Rectangle 17" width="360" height="190" rx="5" transform="translate(225 655)" fill="#ff1744"/>
+        <rect id="Rectangle_19-2" data-name="Rectangle 19" width="360" height="190" rx="5" transform="translate(225 855)" fill="#546e7a"/>
+        <text id="_100-2" data-name="100" transform="translate(405 370)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-47.036" y="0">100</tspan></text>
+        <text id="_200-2" data-name="200" transform="translate(405 570)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-50.172" y="0">200</tspan></text>
+        <text id="_500-2" data-name="500" transform="translate(405 770)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700" opacity="0.25"><tspan x="-50.807" y="0">500</tspan></text>
+        <text id="_1000-2" data-name="1000" transform="translate(405 970)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-64.238" y="0">1000</tspan></text>
+      </g>
+      <g id="COL-3" data-name="COL" transform="translate(520 -150)">
+        <rect id="Rectangle_13-3" data-name="Rectangle 13" width="360" height="190" rx="5" transform="translate(232 256)" fill="#546e7a"/>
+        <rect id="Rectangle_14-3" data-name="Rectangle 14" width="360" height="190" rx="5" transform="translate(225 455)" fill="#2979ff"/>
+        <rect id="Rectangle_17-3" data-name="Rectangle 17" width="360" height="190" rx="5" transform="translate(225 655)" fill="#546e7a"/>
+        <path id="Path_1" data-name="Path 1" d="M5,0H355a5,5,0,0,1,5,5V185a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(225 855)" fill="#2979ff"/>
+        <text id="_100-3" data-name="100" transform="translate(405 370)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-47.036" y="0">100</tspan></text>
+        <text id="_200-3" data-name="200" transform="translate(405 570)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700" opacity="0.25"><tspan x="-50.172" y="0">200</tspan></text>
+        <text id="_500-3" data-name="500" transform="translate(405 770)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-50.807" y="0">500</tspan></text>
+        <text id="_1000-3" data-name="1000" transform="translate(405 970)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700" opacity="0.25"><tspan x="-64.238" y="0">1000</tspan></text>
+      </g>
+      <g id="COL-4" data-name="COL" transform="translate(890 -150)">
+        <rect id="Rectangle_13-4" data-name="Rectangle 13" width="360" height="190" rx="5" transform="translate(225 255)" fill="#546e7a"/>
+        <rect id="Rectangle_14-4" data-name="Rectangle 14" width="360" height="190" rx="5" transform="translate(225 455)" fill="#546e7a"/>
+        <rect id="Rectangle_17-4" data-name="Rectangle 17" width="360" height="190" rx="5" transform="translate(225 655)" fill="#546e7a"/>
+        <rect id="Rectangle_19-3" data-name="Rectangle 19" width="360" height="190" rx="5" transform="translate(225 855)" fill="#546e7a"/>
+        <text id="_100-4" data-name="100" transform="translate(405 370)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-47.036" y="0">100</tspan></text>
+        <text id="_200-4" data-name="200" transform="translate(405 570)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-50.172" y="0">200</tspan></text>
+        <text id="_500-4" data-name="500" transform="translate(405 770)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-50.807" y="0">500</tspan></text>
+        <text id="_1000-4" data-name="1000" transform="translate(405 970)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-64.238" y="0">1000</tspan></text>
+      </g>
+    </g>
+    <g id="Score_A" data-name="Score A">
+      <path id="Rectangle_20" data-name="Rectangle 20" d="M0,0H200a0,0,0,0,1,0,0V89a10,10,0,0,1-10,10H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" fill="#ff1744"/>
+      <text id="_0500" data-name="0500" transform="translate(100 64)" fill="#fff" font-size="38" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-49.903" y="0">0500</tspan></text>
+    </g>
+    <g id="Score_B" data-name="Score B">
+      <path id="Rectangle_21" data-name="Rectangle 21" d="M0,0H200a0,0,0,0,1,0,0V99a0,0,0,0,1,0,0H10A10,10,0,0,1,0,89V0A0,0,0,0,1,0,0Z" transform="translate(1720)" fill="#2979ff"/>
+      <text id="_1200" data-name="1200" transform="translate(1820 61)" fill="#fff" font-size="38" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-46.192" y="0">1200</tspan></text>
+    </g>
+    <text id="ROUND_4" data-name="ROUND 4" transform="translate(960 88)" fill="#fff" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-114.423" y="0">ROUND 4</tspan></text>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="1920" height="1080" fill="#263238" opacity="0.9"/>
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="1488" height="955" transform="translate(216 63)" fill="#546e7a"/>
+    <g id="Question">
+      <text id="What_is_the_value_of_I_after_the_execution_of_the_following_code_" data-name="What is the value of I after the execution of the following code?" transform="translate(282 99)" fill="#fafafa" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="12.677" y="50">What is the value of I after the execution of the following </tspan><tspan x="604.57" y="111">code?</tspan></text>
+      <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(282 252)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="1356" height="207" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1355" height="206" fill="none"/>
+      </g>
+      <text id="i_1_while_i_32:_i_i_2" data-name="i = 1
+while i &lt; 32:
+     i = i *2" transform="translate(783 276)" fill="#263238" font-size="42" font-family="Courier"><tspan x="0" y="32">i = 1</tspan><tspan x="0" y="82">while i &lt; 32:</tspan><tspan x="0" y="132" xml:space="preserve">     i = i *2</tspan></text>
+    </g>
+    <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(282 571)" fill="#ff1744" stroke="#707070" stroke-width="1">
+      <rect width="664" height="191" stroke="none"/>
+      <rect x="0.5" y="0.5" width="663" height="190" fill="none"/>
+    </g>
+    <g id="Rectangle_26" data-name="Rectangle 26" transform="translate(974 571)" fill="#ff1744" stroke="#707070" stroke-width="1">
+      <rect width="664" height="191" stroke="none"/>
+      <rect x="0.5" y="0.5" width="663" height="190" fill="none"/>
+    </g>
+    <g id="Rectangle_27" data-name="Rectangle 27" transform="translate(282 792)" fill="#ff1744" stroke="#707070" stroke-width="1">
+      <rect width="664" height="191" stroke="none"/>
+      <rect x="0.5" y="0.5" width="663" height="190" fill="none"/>
+    </g>
+    <g id="Rectangle_28" data-name="Rectangle 28" transform="translate(974 792)" fill="#ff1744" stroke="#707070" stroke-width="1">
+      <rect width="664" height="191" stroke="none"/>
+      <rect x="0.5" y="0.5" width="663" height="190" fill="none"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" x2="1356" transform="translate(282.5 513.5)" fill="none" stroke="#fafafa" stroke-width="1" opacity="0.25"/>
+    <text id="_16" data-name="16" transform="translate(614 686)" fill="#fafafa" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-29.504" y="0">16</tspan></text>
+    <text id="_31" data-name="31" transform="translate(1306 686)" fill="#fafafa" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-29.161" y="0">31</tspan></text>
+    <text id="_32" data-name="32" transform="translate(614 907)" fill="#fafafa" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-32.36" y="0">32</tspan></text>
+    <text id="_64" data-name="64" transform="translate(1306 907)" fill="#fafafa" font-size="52" font-family="'.AppleSystemUIFont'" font-weight="700"><tspan x="-33.858" y="0">64</tspan></text>
+  </g>
+</svg>
